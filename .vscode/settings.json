@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "network_transport.h": "c",
+        "mqtt_subscription_manager.h": "c",
+        "threading.h": "c",
+        "ota_appversion32.h": "c"
+    }
+}
